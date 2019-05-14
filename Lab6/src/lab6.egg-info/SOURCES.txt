@@ -1,0 +1,6 @@
+setup.py
+src/lab6.egg-info/PKG-INFO
+src/lab6.egg-info/SOURCES.txt
+src/lab6.egg-info/dependency_links.txt
+src/lab6.egg-info/entry_points.txt
+src/lab6.egg-info/top_level.txt

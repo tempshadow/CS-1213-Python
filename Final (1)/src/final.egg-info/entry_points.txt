@@ -1,0 +1,3 @@
+[console_scripts]
+run_final = final.scripts.run:main
+

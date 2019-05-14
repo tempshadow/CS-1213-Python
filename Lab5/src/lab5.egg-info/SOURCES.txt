@@ -1,0 +1,6 @@
+setup.py
+src/lab5.egg-info/PKG-INFO
+src/lab5.egg-info/SOURCES.txt
+src/lab5.egg-info/dependency_links.txt
+src/lab5.egg-info/entry_points.txt
+src/lab5.egg-info/top_level.txt

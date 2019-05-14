@@ -1,0 +1,3 @@
+[console_scripts]
+run_lab7 = lab7.scripts.run:main
+
